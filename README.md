@@ -1,2 +1,2 @@
-# ASIPSI-Lab1--Limonada-web
-un text explicativ legat de o limonada
+# PROIECT JIRA
+https://proiectcofetariescrum.atlassian.net/jira/for-you?visitedUserSeg=true
